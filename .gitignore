@@ -1,0 +1,13 @@
+*.pdf
+.env
+vectorstore/
+__pycache__/
+*.pyc
+venv/
+.gradio/
+.ipynb_checkpoints/
+outputs/
+scratch/
+legacy/
+data/raw/
+data/processed/
